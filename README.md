@@ -1,3 +1,4 @@
 # interest_projects
-Here are some of my interest projects 
-This is just for git command test 
+
+### 01 Random Walk 
+Stimulate the process of random walk, and visualize the tokens. 
